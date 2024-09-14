@@ -133,5 +133,35 @@ form {
 
 .text2{
   text-align: justify;
-
 }
+
+@media screen and (max-width:768px){
+  body {
+    display: block;
+    margin: 0 auto;
+  }
+ 
+  .header {
+    text-align: left;
+    padding: 20px 0px;
+  }
+
+  h2 {
+    text-align: center;
+    font-size: 22px;
+  }
+
+  .img1,.img2,.img3 {
+    float: flex;
+    height: 200px;
+    width: 300px;
+  }
+
+  .img4 {
+    padding-top: 10px;
+    height: 180px;
+    width: 280px;
+  }
+  
+}  
+  
