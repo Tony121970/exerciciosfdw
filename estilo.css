@@ -110,13 +110,11 @@ input {
   font: bold 1.0em sans-serif;
 }
 
-
 button:hover {
   font-size: 14px;
   color: white;
   transition: 0.5s all;
   cursor: pointer;
-
 }
 
 button {
@@ -170,7 +168,7 @@ form {
   
   }
 
-   h1{
+  h1{
     font-size: 20px;
   }
   
@@ -192,15 +190,17 @@ form {
   }
   
   textarea {
-    width: 70vw; 
+    width: 62vw; 
   }
+  
   ul[class="img"]{
-  align-items: center; 
-  flex-direction: column;
-  padding-right: 50px;
+    align-items: center; 
+    flex-direction: column;
+    padding-right: 50px;
   }
  
 }  
   
+
 
 
