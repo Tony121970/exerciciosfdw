@@ -172,22 +172,11 @@ form {
 
   h2 {
     text-align: center;
-    font-size: 22px;
-  }
-
-  h2 {
-    text-align: center;
     font-size: 26px;
     padding-left: 0px;
     padding-top: 30px;
   }
   
-  .img1,.img2,.img3 {
-    float: flex;
-    height: 200px;
-    width: 300px;
-  }
-
   .img4 {
     padding-top: 10px;
     height: 180px;
